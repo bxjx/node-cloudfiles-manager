@@ -13,6 +13,7 @@
   "bin": {
     "cfmgr": "./bin/cfmgr"
   },
+  "preferGlobal": "true",
   "dependencies": {
     "flatiron": "0.1.11",
     "cloudfiles": "0.3.3"
