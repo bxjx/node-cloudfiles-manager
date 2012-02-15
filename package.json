@@ -16,6 +16,7 @@
   "preferGlobal": "true",
   "dependencies": {
     "flatiron": "0.1.11",
+    "pkginfo": "0.2.3",
     "cloudfiles": "0.3.3"
   },
   "devDependencies": {}
