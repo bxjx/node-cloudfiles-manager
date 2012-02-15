@@ -1,0 +1,20 @@
+{
+  "author": "Christian Howe <coderarity@gmail.com>",
+  "name": "cloudfiles-manager",
+  "description": "Manage your Rackspace Cloudfiles using a command-line tool.",
+  "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/CodeRarity/node-cloudfiles-manager.git"
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "main": "./lib/index.js",
+  "bin": {
+    "cfmgr": "./bin/cfmgr"
+  },
+  "dependencies": {
+    "cloudfiles": "0.3.3"
+  },
+  "devDependencies": {}
+}
